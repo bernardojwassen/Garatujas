@@ -9,10 +9,6 @@ Linux/macOS:
 curl -fsSL https://bun.sh/install | bash
 ```
 
-Windows:
-
-[Bun Oficial](https://bun.sh?utm_source=chatgpt.com)
-
 Verifique:
 
 ```bash id="3mkp2k"
