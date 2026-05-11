@@ -78,9 +78,7 @@ bun src/index.ts
 
 ---
 
-### Como esse servidor funciona
-
-Agora a parte importante.
+### Como um servidor funciona
 
 ---
 
