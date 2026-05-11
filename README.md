@@ -90,14 +90,6 @@ Bun.serve({...})
 
 Isso cria um servidor HTTP.
 
-É parecido com:
-
-* Node HTTP
-* Express
-* Fastify
-
-Mas muito mais leve e rápido.
-
 ---
 
 ### 2. Porta
@@ -123,8 +115,6 @@ fetch(req) {
 ```
 
 Toda requisição passa aqui.
-
-O Bun usa o padrão Web API moderno, igual navegador.
 
 ---
 
