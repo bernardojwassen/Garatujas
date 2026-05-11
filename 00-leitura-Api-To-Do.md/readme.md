@@ -99,7 +99,7 @@ console.log(`Server running at http://localhost:${server.port}`); // Mostra no t
 
 ## core.ts
 
-````typescrip
+````typescript
 
 const jsonFilePath = __dirname + '/data.temp.json'; // Caminho do arquivo JSON onde os dados serão salvos.
 
