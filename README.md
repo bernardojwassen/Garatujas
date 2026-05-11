@@ -152,24 +152,6 @@ Retorna a resposta HTTP.
 
 ---
 
-### Fluxo do servidor
-
-```txt id="0k2g8k"
-Navegador
-   ↓
-Request HTTP
-   ↓
-Bun recebe
-   ↓
-fetch()
-   ↓
-Response enviada
-   ↓
-Navegador recebe
-```
-
----
-
 ### Criando rotas
 
 Você pode verificar a URL manualmente.
