@@ -1,2 +1,2 @@
 # Garatujas
-##Oque precisa para fazer um Servidor funcionar
+## Oque precisa para fazer um Servidor funcionar
